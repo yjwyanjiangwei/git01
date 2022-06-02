@@ -12,6 +12,7 @@ public class Git02 {
         System.out.println("...........");
         System.out.println("test用户修改了代码");
         System.out.println("master在git02添加了代码");
+        System.out.println("test在git02添加了代码");
     }
 }
 
