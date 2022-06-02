@@ -10,6 +10,7 @@ package com.yjw.git;
 public class Git01 {
     public static void main(String[] args) {
         System.out.println("没哟具体的需求");
+        System.out.println("第二次更新");
     }
 }
 
